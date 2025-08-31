@@ -1,4 +1,4 @@
-# House-rice-prediction
+# House-Price-Prediction
 House Price Prediction using Linear Regression project.
 
 # Project Overview  
